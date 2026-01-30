@@ -23,6 +23,16 @@ The analysis reveals that while brands like Oppo lead in model volume (115 model
 
 - Step 12 : Calculated columns and measures were created to handle currency conversions and average hardware scores.
 
+ # Report Snapshot (Power BI DESKTOP)
+
+ ![Image](https://github.com/user-attachments/assets/1b7a70ba-10df-42aa-a032-7a14cdaf5e14)
+
+ ![Image](https://github.com/user-attachments/assets/369dbeb0-7adf-4909-97df-df80a758dca9)
+
+ ![Image](https://github.com/user-attachments/assets/31eac0dc-af69-4180-9015-d34cf8145ea9)
+
+ ![Image](https://github.com/user-attachments/assets/78e78ac6-140a-46b3-8a03-d5a21d787512)
+
 ### Insights
 A multi-page report was created on Power BI Desktop and published to Power BI Service.
 
